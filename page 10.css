@@ -1,0 +1,25 @@
+
+#y {
+    font-style: italic; 
+}
+
+h1 {
+    font-style: italic; font-weight:bold;
+    font-family:sans-serif;text-transform:capitalize;
+}
+
+body {
+    margin-left: 300px;
+    margin-right: 300px
+}
+
+h2 {
+    font-family:inherit;text-transform:capitalize; line-height:  30px;
+   
+}
+
+p {
+    color: aliceblue;
+    background-color: black;
+    text-transform:capitalize;
+}

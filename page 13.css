@@ -1,0 +1,22 @@
+
+body {
+    font-size: 72px;
+    margin-left: 200px;
+    color:darkslategrey;
+    line-height: 45px;
+    background-color: darkgrey;
+}
+
+h14 {
+    
+}
+
+#last {border-color: cadetblue;
+    letter-spacing: 45px;
+   
+}
+
+h6 {
+    border-bottom: 1px solid black;
+    
+}
